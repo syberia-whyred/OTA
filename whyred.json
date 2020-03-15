@@ -1,0 +1,27 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "syberia_whyred-v3.5-20200312-2045-UNOFFICIAL.zip",
+  "changelog": "",
+  "filesize": "770237130",
+  "md5": "246516849749d13a18c878dd77985654",
+  "build_date": "20200315",
+  "device": "whyred",
+  "url": "https://sourceforge.net/projects/syberia-whyded/files/syberia_whyred-v3.5-20200312-2045-UNOFFICIAL.zip/download",
+  "developer_url": "http://github.com/syberia-project",
+  "news_url": "http://github.com/syberia-project",
+  "developer": "Orges",
+  "error": "false",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi Note 5 Pro"
+}
