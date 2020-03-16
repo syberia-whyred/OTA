@@ -1,3 +1,16 @@
+Device Changelog:
+-Added/Fixed Offline charging
+-Updated APN config from miui (thnx @khruskh)
+-Added VoLTE props
+-Switched to common telephony blobs
+-Update QtiRadio HAL to 2.4
+-Update Factory HAL to 2.1
+-Update cacert and uceservice HAL
+-Enable LPRX by default
+-Add improvetouch binaries
+-Maybe More?
+
+ROM Changelog:
 =============
    2020-03-15
 =============
