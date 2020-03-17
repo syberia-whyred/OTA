@@ -1,5 +1,5 @@
 Device Changelog:
--Added/Fixed Offline charging
+-Added Offline charging
 -Updated APN config from miui (thnx @khruskh)
 -Added VoLTE props
 -Switched to common telephony blobs
