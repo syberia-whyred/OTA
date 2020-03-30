@@ -4,14 +4,14 @@
       "romtype": "UNOFFICIAL",
       "developer": "Orges",
       "device_model": "Redmi Note 5 Pro",
-      "id": "641901d8a368a90db5211edc5bf8f240",
-      "url": "https://sourceforge.net/projects/syberia-whyded/files/syberia_whyred-v3.5-20200324-1949-UNOFFICIAL.zip/download",
+      "id": "93d81f3025948287008f4ffb4c4b90bb",
+      "url": "https://sourceforge.net/projects/syberia-whyded/files/syberia_whyred-v3.5-20200329-1829-UNOFFICIAL.zip/download",
       "device_codename": "whyred",
-      "datetime": 1585081455,
-      "filename": "syberia_whyred-v3.5-20200324-1949-UNOFFICIAL.zip",
+      "datetime": 1585506575,
+      "filename": "syberia_whyred-v3.5-20200329-1829-UNOFFICIAL.zip",
       "device_brand": "Xiaomi",
       "version": "v3.5",
-      "size": "771409634"
+      "size": "771496583"
     }
   ]
 }
