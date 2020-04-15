@@ -1,2 +1,8 @@
-2020-03-29
+2020-04-15
 -Latest source sync
+-Offline charging is fixed
+-libperfmgr as power this time (testing)
+-Switching mobile data SIM is fixed
+-Blobs updates
+-Some rootdir updates
+-Some really minor updates
