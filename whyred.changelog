@@ -6,3 +6,7 @@
 -Blobs updates
 -Some rootdir updates
 -Some really minor updates
+-Kernel Upstreamed to .219, latest CAF tag and latest wifi tag.
+-Using proton clang 11+polly+o3
+-mbcache updates, slmk updates and kgsl updates
+--Probably more idk
